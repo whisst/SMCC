@@ -32,6 +32,5 @@ const fs = require("fs");
       if (err) throw err;
       console.log("Saved");
     });
-  console.log(news);
   await browser.close();
 })();
