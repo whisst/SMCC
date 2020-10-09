@@ -1,0 +1,2 @@
+# SMCC
+Hi everyone!!
